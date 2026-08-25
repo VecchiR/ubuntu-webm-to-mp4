@@ -65,17 +65,5 @@ Right‑click → Scripts → webm‑to‑mp4 → UNINSTALL webm‑to‑mp4, or:
 ```bash
 ~/.local/bin/webm-to-mp4-uninstall
 ```
-TODO / Questions for You
-License: Do you have a preferred open‑source license? (MIT, Apache 2.0, GPL, etc.)
-
-Usage examples or screenshots: Would you like to include sample commands, a GIF of the Nautilus integration, or screenshots of the GUI?
-
-Badges: Any CI/CD, version, or packaging badges you want at the top?
-
-Contribution guidelines: Should we add a CONTRIBUTING.md with style/PR rules?
-
-Versioning: How do you prefer to tag releases? (e.g. v1.0.0)
-
-Let me know which of these you’d like to fill in or any other details to include!
 
 
